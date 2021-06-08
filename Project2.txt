@@ -1,0 +1,16 @@
+Client ID: kcLWzEozDHKYcAlj1V2dNZ7BavzQPmSy
+Client Secret: 9S4xT1SzaFxC8oX8te88J93H9jfR_714_htwcuS_
+
+
+https://tkardi.ee/writeup/post/2019/04/27/building-a-totally-useless-map/
+
+Python/Leaflet/D3:
+https://programminghistorian.org/en/lessons/
+https://programminghistorian.org/en/lessons/mapping-with-python-leaflet
+https://kazuar.github.io/visualize-trip-with-flask-and-mapbox/
+https://github.com/kazuar/flask_mapbox.git
+
+R:
+https://cran.r-project.org/bin/windows/base/
+https://www.rstudio.com/products/rstudio/download/#download
+https://github.com/veerendra2?tab=repositories
